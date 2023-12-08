@@ -21,7 +21,7 @@
         </AnchorPane>
         <AnchorPane layoutY="59.0" prefHeight="542.0" prefWidth="400.0" style="-fx-background-color: white;">
             <children>
-                <Button fx:id="startChatButton" layoutX="119.0" layoutY="165.0" mnemonicParsing="false" onMouseClicked="#intoChat" prefHeight="62.0" prefWidth="161.0" style="-fx-background-radius: 50; -fx-background-color: black;" text="Start" textFill="WHITE">
+                <Button fx:id="startChatButton" layoutX="119.0" layoutY="165.0" mnemonicParsing="false" onMouseClicked="#chat" prefHeight="62.0" prefWidth="161.0" style="-fx-background-radius: 50; -fx-background-color: black;" text="Start" textFill="WHITE">
                     <font>
                         <Font name=".VnBlack" size="23.0" />
                     </font>

@@ -10,21 +10,21 @@ public class HelloController extends HelpController {
     @FXML
     private Label welcomeText;
     @FXML
-    void backToChat(MouseEvent event) throws IOException {
+    void backChat(MouseEvent event) throws IOException {
         switchScene("/fxml/chatController.fxml");
     }
 
     @FXML
-    void backToMain(MouseEvent event) {
+    void backMain(MouseEvent event) {
         switchScene("/fxml/main.fxml");
     }
 
     @FXML
-    void intoCall(MouseEvent event) throws IOException {
+    void call(MouseEvent event) throws IOException {
         switchScene("/fxml/callController.fxml");
     }
     @FXML
-    void intoChat(MouseEvent event) throws IOException {
+    void chat(MouseEvent event) throws IOException {
         HelpController.switchScene("/fxml/chatController.fxml");
     }
 

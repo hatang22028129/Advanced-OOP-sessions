@@ -16,7 +16,7 @@
                         <Font size="19.0" />
                     </font>
                 </Label>
-                <Button mnemonicParsing="false" onMouseClicked="#backToChat" prefHeight="46.0" prefWidth="50.0" style="-fx-background-radius: 20; -fx-cursor: hand; -fx-background-color: white;" text=" ">
+                <Button mnemonicParsing="false" onMouseClicked="#backChat" prefHeight="46.0" prefWidth="50.0" style="-fx-background-radius: 20; -fx-cursor: hand; -fx-background-color: white;" text=" ">
                     <graphic>
                         <ImageView fitHeight="38.0" fitWidth="46.0" pickOnBounds="true" preserveRatio="true">
                             <image>
