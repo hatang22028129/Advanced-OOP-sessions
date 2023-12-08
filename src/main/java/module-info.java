@@ -3,6 +3,6 @@ module com.example.chatapp {
     requires javafx.fxml;
 
 
-    opens com.example.chatapp to javafx.fxml;
-    exports com.example.chatapp;
+    opens com.example.advancedoopsessions to javafx.fxml;
+    exports com.example.advancedoopsessions;
 }
