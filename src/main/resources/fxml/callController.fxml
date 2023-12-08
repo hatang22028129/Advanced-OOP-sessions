@@ -11,7 +11,7 @@
     <children>
         <AnchorPane layoutY="61.0" prefHeight="538.0" prefWidth="400.0" style="-fx-background-color: white;">
             <children>
-                <Label alignment="CENTER" layoutX="48.0" layoutY="269.0" prefHeight="46.0" prefWidth="305.0" text="Can't connect">
+                <Label alignment="CENTER" layoutX="48.0" layoutY="269.0" prefHeight="46.0" prefWidth="305.0" text="Can't call hilu ajinomoto">
                     <font>
                         <Font size="19.0" />
                     </font>
@@ -38,7 +38,7 @@
             <Label layoutX="162.0" layoutY="62.0" prefHeight="17.0" prefWidth="105.0" text="Hilu ajinomoto" textAlignment="CENTER" />
             </children>
         </AnchorPane>
-        <Label alignment="CENTER" layoutX="3.0" layoutY="7.0" prefHeight="62.0" prefWidth="400.0" text="CHAT APP" textFill="WHITE">
+        <Label alignment="CENTER" prefHeight="62.0" prefWidth="400.0" style="-fx-background-color: FFC0CB;" text="CHAT APP" textFill="WHITE">
             <font>
                 <Font name="System Bold" size="25.0" />
             </font>
